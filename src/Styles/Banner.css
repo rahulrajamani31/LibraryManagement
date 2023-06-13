@@ -1,0 +1,46 @@
+.banner {
+    display: flex;
+    align-items: center;
+    background-color: lightblue;
+    padding: 20px;
+    margin-right: 30px;
+  }
+  
+  .banner-description {
+    flex: 1;
+  }
+  
+  .banner-description h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .banner-image img {
+    width: 100%;
+    max-width: 400px;
+    height: 350px;
+  }
+  
+  .banner-content {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .banner-content h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .banner-content p {
+    margin-bottom: 10px;
+  }
+  
+  .banner-content button {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

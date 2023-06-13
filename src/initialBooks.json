@@ -1,0 +1,810 @@
+{
+
+  "all":[
+    {
+      "key": "OL26445784M",
+      "title": "Gulliver's Travels",
+      "cover_i": 12717083,
+      "author_name": [
+        "Jonathan Swift"
+      ],
+      "first_publish_year": 1726
+    },
+    {
+      "key": "OL6469521M",
+      "title": "El ingenioso hidalgo Don Quijote de la Mancha",
+      "cover_i": 10934305,
+      "author_name": [
+        "Miguel de Cervantes Saavedra"
+      ],
+      "first_publish_year": 1600
+    },
+    {
+      "key": "OL26229526M",
+      "title": "Julius Caesar",
+      "cover_i": 7901303,
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "first_publish_year": 1684
+    },
+    {
+      "key": "OL25652084M",
+      "title": "The Pilgrim's Progress",
+      "cover_i": 8229224,
+      "author_name": [
+        "John Bunyan"
+      ],
+      "first_publish_year": 1678
+    },
+    {
+      "key": "OL14005342M",
+      "title": "Dubliners",
+      "cover_i": 8216412,
+      "author_name": [
+        "James Joyce"
+      ],
+      "first_publish_year": 1914
+    },
+    {
+      "key": "OL6552577M",
+      "title": "Sonnets",
+      "cover_i": 8222090,
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "first_publish_year": 1609
+    },
+    {
+      "key": "OL24400268M",
+      "title": "Ab urbe condita",
+      "cover_i": 6657951,
+      "author_name": [
+        "Titus Livius"
+      ],
+      "first_publish_year": 1481
+    },
+    {
+      "key": "OL25918538M",
+      "title": "King Henry V",
+      "cover_i": 7420215,
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "first_publish_year": 1600
+    },
+    {
+      "key": "OL22122610M",
+      "title": "Leaves of Grass",
+      "cover_i": 9000447,
+      "author_name": [
+        "Walt Whitman"
+      ],
+      "first_publish_year": 1855
+    },
+    {
+      "key": "OL13573615M",
+      "title": "Emma",
+      "cover_i": 9278312,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1111
+    },
+    {
+      "key": "OL38586477M",
+      "title": "Wuthering Heights",
+      "cover_i": 12818862,
+      "author_name": [
+        "Emily Brontë"
+      ],
+      "first_publish_year": 1847
+    },
+  
+    {
+      "key": "OL36684152M",
+      "title": "Northanger Abbey",
+      "cover_i": 12567961,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1818
+    },
+    {
+      "key": "OL7215847M",
+      "title": "Ethan Frome",
+      "cover_i": 8303480,
+      "author_name": [
+        "Edith Wharton"
+      ],
+      "first_publish_year": 1910
+    },
+    {
+      "key": "OL26244385M",
+      "title": "Uncle Tom's Cabin",
+      "cover_i": 12728198,
+      "author_name": [
+        "Harriet Beecher Stowe"
+      ],
+      "first_publish_year": 1850
+    },
+    {
+      "key": "OL14048584M",
+      "title": "Women in Love",
+      "cover_i": 13140934,
+      "author_name": [
+        "David Herbert Lawrence"
+      ],
+      "first_publish_year": 1877
+    },
+    {
+      "key": "OL7230180M",
+      "title": "This Side of Paradise",
+      "cover_i": 8243609,
+      "author_name": [
+        "F. Scott Fitzgerald"
+      ],
+      "first_publish_year": 1920
+    },
+    {
+      "key": "OL10277237M",
+      "title": "Heart of Darkness",
+      "cover_i": 5048643,
+      "author_name": [
+        "Joseph Conrad"
+      ],
+      "first_publish_year": 1899
+    },
+    {
+      "key": "OL6504102M",
+      "title": "Brave New World",
+      "cover_i": 8231823,
+      "author_name": [
+        "Aldous Huxley"
+      ],
+      "first_publish_year": 1932
+    },
+    {
+      "key": "OL7870148M",
+      "title": "On the Nature of the Universe",
+      "cover_i": 566208,
+      "author_name": [
+        "Titus Lucretius Carus"
+      ],
+      "first_publish_year": 1486
+    },
+    {
+      "key": "OL24269941M",
+      "title": "The Invisible Man",
+      "cover_i": 6419199,
+      "author_name": [
+        "H. G. Wells"
+      ],
+      "first_publish_year": 1897
+    },
+    {
+      "key": "OL37452736M",
+      "title": "Houghton Mifflin Science California",
+      "cover_i": 12746894,
+      "author_name": [
+        "Houghton Mifflin Company Staff"
+      ],
+      "first_publish_year": 2006
+    },
+    {
+      "key": "OL24188598M",
+      "title": "History",
+      "cover_i": 6366973,
+      "author_name": [
+        "Herodotus"
+      ],
+      "first_publish_year": 1494
+    },
+    {
+      "key": "OL7050533M",
+      "title": "Le Tour du Monde en Quatre-Vingts Jours",
+      "cover_i": 6976035,
+      "author_name": [
+        "Jules Verne"
+      ],
+      "first_publish_year": 1873
+    },
+    {
+      "key": "OL37449397M",
+      "title": "Houghton Mifflin Science Leveled Readers",
+      "cover_i": 12917356,
+      "author_name": [
+        "Houghton Mifflin Company Staff"
+      ],
+      "first_publish_year": 2005
+    },
+    {
+      "key": null,
+      "title": "[William Wheeler Hubbell, authorized to apply for patents.]",
+      "cover_i": 10200621,
+      "author_name": [
+        "United States. Congress. Senate. Committee on Patents"
+      ],
+      "first_publish_year": 1858
+    },
+    {
+      "key": "OL21274055M",
+      "title": "The Island of Dr. Moreau",
+      "cover_i": 968312,
+      "author_name": [
+        "H. G. Wells"
+      ],
+      "first_publish_year": 1896
+    },
+    {
+      "key": "OL14034672M",
+      "title": "Moralia",
+      "cover_i": 5788251,
+      "author_name": [
+        "Plutarch"
+      ],
+      "first_publish_year": 1500
+    },
+    {
+      "key": "OL39801870M",
+      "title": "Bible",
+      "cover_i": 12707846,
+      "author_name": [
+        "Bible"
+      ],
+      "first_publish_year": 1200
+    },
+    {
+      "key": "OL24195201M",
+      "title": "Treasure Island",
+      "cover_i": 8229197,
+      "author_name": [
+        "Robert Louis Stevenson"
+      ],
+      "first_publish_year": 1880
+    },
+    {
+      "key": "OL14041582M",
+      "title": "Sense and Sensibility",
+      "cover_i": 9278292,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1811
+    },
+    {
+      "key": "OL46835117M",
+      "title": "A Tale of Two Cities",
+      "cover_i": 13301713,
+      "author_name": [
+        "Charles Dickens"
+      ],
+      "first_publish_year": 171
+    },
+    {
+      "key": "OL47311368M",
+      "title": "A Christmas Carol",
+      "cover_i": 13299222,
+      "author_name": [
+        "Charles Dickens"
+      ],
+      "first_publish_year": 172
+    },
+    {
+      "key": "OL24620928M",
+      "title": "Little Women",
+      "cover_i": 6795866,
+      "author_name": [
+        "Louisa May Alcott"
+      ],
+      "first_publish_year": 1848
+    },
+    {
+      "key": "OL47307472M",
+      "title": "Oliver Twist",
+      "cover_i": 13300802,
+      "author_name": [
+        "Charles Dickens"
+      ],
+      "first_publish_year": 1838
+    },
+    {
+      "key": "OL37250029M",
+      "title": "Pride and Prejudice",
+      "cover_i": 12648793,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1813
+    },
+    {
+      "key": "OL31754751M",
+      "title": "Alice's Adventures in Wonderland",
+      "cover_i": 10527843,
+      "author_name": [
+        "Lewis Carroll"
+      ],
+      "first_publish_year": 1865
+    },
+    {
+      "key": "OL7062714M",
+      "title": "Adventures of Huckleberry Finn",
+      "cover_i": 8157718,
+      "author_name": [
+        "Mark Twain"
+      ],
+      "first_publish_year": 1707
+    },
+    {
+      "key": "OL7092075M",
+      "title": "Frankenstein; or, The Modern Prometheus",
+      "cover_i": 10872750,
+      "author_name": [
+        "Mary Wollstonecraft Shelley"
+      ],
+      "first_publish_year": 1818
+    },
+    {
+      "key": "OL13573615M",
+      "title": "Emma",
+      "cover_i": 9278312,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1111
+    },
+    {
+      "key": "OL26573651M",
+      "title": "The Picture of Dorian Gray",
+      "cover_i": 14314858,
+      "author_name": [
+        "Oscar Wilde"
+      ],
+      "first_publish_year": 1809
+    },
+    {
+      "key": "OL24195201M",
+      "title": "Treasure Island",
+      "cover_i": 8229197,
+      "author_name": [
+        "Robert Louis Stevenson"
+      ],
+      "first_publish_year": 1880
+    },
+    {
+      "key": "OL38586477M",
+      "title": "Wuthering Heights",
+      "cover_i": 12818862,
+      "author_name": [
+        "Emily Brontë"
+      ],
+      "first_publish_year": 1847
+    },
+    {
+      "key": "OL14041582M",
+      "title": "Sense and Sensibility",
+      "cover_i": 9278292,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1811
+    },
+    {
+      "key": "OL46835117M",
+      "title": "A Tale of Two Cities",
+      "cover_i": 13301713,
+      "author_name": [
+        "Charles Dickens"
+      ],
+      "first_publish_year": 171
+    }
+  ],
+  "fiction": [
+    {
+      "key": "OL37250029M",
+      "title": "Pride and Prejudice",
+      "cover_i": 12648793,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1813
+    },
+    {
+      "key": "OL31754751M",
+      "title": "Alice's Adventures in Wonderland",
+      "cover_i": 10527843,
+      "author_name": [
+        "Lewis Carroll"
+      ],
+      "first_publish_year": 1865
+    },
+    {
+      "key": "OL7062714M",
+      "title": "Adventures of Huckleberry Finn",
+      "cover_i": 8157718,
+      "author_name": [
+        "Mark Twain"
+      ],
+      "first_publish_year": 1707
+    },
+    {
+      "key": "OL7092075M",
+      "title": "Frankenstein; or, The Modern Prometheus",
+      "cover_i": 10872750,
+      "author_name": [
+        "Mary Wollstonecraft Shelley"
+      ],
+      "first_publish_year": 1818
+    },
+    {
+      "key": "OL13573615M",
+      "title": "Emma",
+      "cover_i": 9278312,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1111
+    },
+    {
+      "key": "OL26573651M",
+      "title": "The Picture of Dorian Gray",
+      "cover_i": 14314858,
+      "author_name": [
+        "Oscar Wilde"
+      ],
+      "first_publish_year": 1809
+    },
+    {
+      "key": "OL24195201M",
+      "title": "Treasure Island",
+      "cover_i": 8229197,
+      "author_name": [
+        "Robert Louis Stevenson"
+      ],
+      "first_publish_year": 1880
+    },
+    {
+      "key": "OL38586477M",
+      "title": "Wuthering Heights",
+      "cover_i": 12818862,
+      "author_name": [
+        "Emily Brontë"
+      ],
+      "first_publish_year": 1847
+    },
+    {
+      "key": "OL14041582M",
+      "title": "Sense and Sensibility",
+      "cover_i": 9278292,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1811
+    },
+    {
+      "key": "OL46835117M",
+      "title": "A Tale of Two Cities",
+      "cover_i": 13301713,
+      "author_name": [
+        "Charles Dickens"
+      ],
+      "first_publish_year": 171
+    }
+  ],
+  "history": [
+    {
+      "key": "OL39801870M",
+      "title": "Bible",
+      "cover_i": 12707846,
+      "author_name": [
+        "Bible"
+      ],
+      "first_publish_year": 1200
+    },
+    {
+      "key": "OL24195201M",
+      "title": "Treasure Island",
+      "cover_i": 8229197,
+      "author_name": [
+        "Robert Louis Stevenson"
+      ],
+      "first_publish_year": 1880
+    },
+    {
+      "key": "OL14041582M",
+      "title": "Sense and Sensibility",
+      "cover_i": 9278292,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1811
+    },
+    {
+      "key": "OL46835117M",
+      "title": "A Tale of Two Cities",
+      "cover_i": 13301713,
+      "author_name": [
+        "Charles Dickens"
+      ],
+      "first_publish_year": 171
+    },
+    {
+      "key": "OL47311368M",
+      "title": "A Christmas Carol",
+      "cover_i": 13299222,
+      "author_name": [
+        "Charles Dickens"
+      ],
+      "first_publish_year": 172
+    },
+    {
+      "key": "OL24620928M",
+      "title": "Little Women",
+      "cover_i": 6795866,
+      "author_name": [
+        "Louisa May Alcott"
+      ],
+      "first_publish_year": 1848
+    },
+    {
+      "key": "OL47307472M",
+      "title": "Oliver Twist",
+      "cover_i": 13300802,
+      "author_name": [
+        "Charles Dickens"
+      ],
+      "first_publish_year": 1838
+    }
+  ],
+  "science": [
+    {
+      "key": "OL6504102M",
+      "title": "Brave New World",
+      "cover_i": 8231823,
+      "author_name": [
+        "Aldous Huxley"
+      ],
+      "first_publish_year": 1932
+    },
+    {
+      "key": "OL7870148M",
+      "title": "On the Nature of the Universe",
+      "cover_i": 566208,
+      "author_name": [
+        "Titus Lucretius Carus"
+      ],
+      "first_publish_year": 1486
+    },
+    {
+      "key": "OL24269941M",
+      "title": "The Invisible Man",
+      "cover_i": 6419199,
+      "author_name": [
+        "H. G. Wells"
+      ],
+      "first_publish_year": 1897
+    },
+    {
+      "key": "OL37452736M",
+      "title": "Houghton Mifflin Science California",
+      "cover_i": 12746894,
+      "author_name": [
+        "Houghton Mifflin Company Staff"
+      ],
+      "first_publish_year": 2006
+    },
+    {
+      "key": "OL24188598M",
+      "title": "History",
+      "cover_i": 6366973,
+      "author_name": [
+        "Herodotus"
+      ],
+      "first_publish_year": 1494
+    },
+    {
+      "key": "OL7050533M",
+      "title": "Le Tour du Monde en Quatre-Vingts Jours",
+      "cover_i": 6976035,
+      "author_name": [
+        "Jules Verne"
+      ],
+      "first_publish_year": 1873
+    },
+    {
+      "key": "OL37449397M",
+      "title": "Houghton Mifflin Science Leveled Readers",
+      "cover_i": 12917356,
+      "author_name": [
+        "Houghton Mifflin Company Staff"
+      ],
+      "first_publish_year": 2005
+    },
+    {
+      "key": null,
+      "title": "[William Wheeler Hubbell, authorized to apply for patents.]",
+      "cover_i": 10200621,
+      "author_name": [
+        "United States. Congress. Senate. Committee on Patents"
+      ],
+      "first_publish_year": 1858
+    },
+    {
+      "key": "OL21274055M",
+      "title": "The Island of Dr. Moreau",
+      "cover_i": 968312,
+      "author_name": [
+        "H. G. Wells"
+      ],
+      "first_publish_year": 1896
+    },
+    {
+      "key": "OL14034672M",
+      "title": "Moralia",
+      "cover_i": 5788251,
+      "author_name": [
+        "Plutarch"
+      ],
+      "first_publish_year": 1500
+    }
+  ],
+  "romance": [
+   
+    {
+      "key": "OL13573615M",
+      "title": "Emma",
+      "cover_i": 9278312,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1111
+    },
+    {
+      "key": "OL38586477M",
+      "title": "Wuthering Heights",
+      "cover_i": 12818862,
+      "author_name": [
+        "Emily Brontë"
+      ],
+      "first_publish_year": 1847
+    },
+  
+    {
+      "key": "OL36684152M",
+      "title": "Northanger Abbey",
+      "cover_i": 12567961,
+      "author_name": [
+        "Jane Austen"
+      ],
+      "first_publish_year": 1818
+    },
+    {
+      "key": "OL7215847M",
+      "title": "Ethan Frome",
+      "cover_i": 8303480,
+      "author_name": [
+        "Edith Wharton"
+      ],
+      "first_publish_year": 1910
+    },
+    {
+      "key": "OL26244385M",
+      "title": "Uncle Tom's Cabin",
+      "cover_i": 12728198,
+      "author_name": [
+        "Harriet Beecher Stowe"
+      ],
+      "first_publish_year": 1850
+    },
+    {
+      "key": "OL14048584M",
+      "title": "Women in Love",
+      "cover_i": 13140934,
+      "author_name": [
+        "David Herbert Lawrence"
+      ],
+      "first_publish_year": 1877
+    },
+    {
+      "key": "OL7230180M",
+      "title": "This Side of Paradise",
+      "cover_i": 8243609,
+      "author_name": [
+        "F. Scott Fitzgerald"
+      ],
+      "first_publish_year": 1920
+    },
+    {
+      "key": "OL10277237M",
+      "title": "Heart of Darkness",
+      "cover_i": 5048643,
+      "author_name": [
+        "Joseph Conrad"
+      ],
+      "first_publish_year": 1899
+    }
+  ],
+  "biography": [
+    {
+      "key": "OL26445784M",
+      "title": "Gulliver's Travels",
+      "cover_i": 12717083,
+      "author_name": [
+        "Jonathan Swift"
+      ],
+      "first_publish_year": 1726
+    },
+    {
+      "key": "OL6469521M",
+      "title": "El ingenioso hidalgo Don Quijote de la Mancha",
+      "cover_i": 10934305,
+      "author_name": [
+        "Miguel de Cervantes Saavedra"
+      ],
+      "first_publish_year": 1600
+    },
+    {
+      "key": "OL26229526M",
+      "title": "Julius Caesar",
+      "cover_i": 7901303,
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "first_publish_year": 1684
+    },
+    {
+      "key": "OL25652084M",
+      "title": "The Pilgrim's Progress",
+      "cover_i": 8229224,
+      "author_name": [
+        "John Bunyan"
+      ],
+      "first_publish_year": 1678
+    },
+    {
+      "key": "OL14005342M",
+      "title": "Dubliners",
+      "cover_i": 8216412,
+      "author_name": [
+        "James Joyce"
+      ],
+      "first_publish_year": 1914
+    },
+    {
+      "key": "OL6552577M",
+      "title": "Sonnets",
+      "cover_i": 8222090,
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "first_publish_year": 1609
+    },
+    {
+      "key": "OL24400268M",
+      "title": "Ab urbe condita",
+      "cover_i": 6657951,
+      "author_name": [
+        "Titus Livius"
+      ],
+      "first_publish_year": 1481
+    },
+    {
+      "key": "OL25918538M",
+      "title": "King Henry V",
+      "cover_i": 7420215,
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "first_publish_year": 1600
+    },
+    {
+      "key": "OL22122610M",
+      "title": "Leaves of Grass",
+      "cover_i": 9000447,
+      "author_name": [
+        "Walt Whitman"
+      ],
+      "first_publish_year": 1855
+    }
+  ]
+}
