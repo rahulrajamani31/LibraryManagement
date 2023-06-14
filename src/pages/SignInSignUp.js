@@ -85,26 +85,6 @@ function SignInSignupWithLocalStorage() {
             <div>
               <div>
                 <h2 className="text-center text-4xl font-bold py-10">
-                  Sign In
-                </h2>
-              </div>
-              <div className="input_space">
-                <input placeholder="Email" type="text" ref={email} />
-              </div>
-              <div className="input_space">
-                <input placeholder="Password" type="password" ref={password} />
-              </div>
-              <button className="sbtn" onClick={handleSignIn}>
-                Sign In
-              </button>
-              <p className="switch-form" onClick={handleSwitchForm}>
-                Don't have an account? Sign Up
-              </p>
-            </div>
-          ) : (
-            <div>
-              <div>
-                <h2 className="text-center text-4xl font-bold py-10">
                   Sign Up
                 </h2>
               </div>
@@ -123,6 +103,26 @@ function SignInSignupWithLocalStorage() {
               </button>
               <p className="switch-form" onClick={handleSwitchForm}>
                 Already have an account? Sign In
+              </p>
+            </div>
+          ) : (
+            <div>
+              <div>
+                <h2 className="text-center text-4xl font-bold py-10">
+                  Sign In
+                </h2>
+              </div>
+              <div className="input_space">
+                <input placeholder="Email" type="text" ref={email} />
+              </div>
+              <div className="input_space">
+                <input placeholder="Password" type="password" ref={password} />
+              </div>
+              <button className="sbtn" onClick={handleSignIn}>
+                Sign In
+              </button>
+              <p className="switch-form" onClick={handleSwitchForm}>
+                Don't have an account? Sign Up
               </p>
             </div>
           )}

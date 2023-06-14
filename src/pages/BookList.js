@@ -103,7 +103,10 @@ const BookList = () => {
       </div>
 
       {loading ? (
-        <div className="loading-spinner"></div>
+        <div>
+          <div className="loading-spinner"></div>
+          <p>Please wait....</p>
+        </div>
       ) : (
         <div className="book-grid">
           {books.map((book) => (
